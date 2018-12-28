@@ -1,4 +1,5 @@
-# Hálózati operációs rendszerek gyakorlat tantárgy	
+# Hálózati operációs rendszerek gyakorlat tantárgy
+#### 54 481 04 INFORMATIKAI RENDSZERGAZDA
 
             13.3.2. Linux kiszolgáló telepítése és üzemeltetése	 	96 óra/96 óra
 1. A szerver hardver konfigurálása
